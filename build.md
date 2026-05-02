@@ -1,5 +1,4 @@
-Music-Morphe: 9.16.52  
-YouTube-Morphe: 21.16.256  
+Music-Morphe: 9.17.51  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music modules from Play Store  
